@@ -1,2 +1,3 @@
 # coding-platform
-Web Based Coding Platform for Assignment Submission
+Frontend based Browser Code Editor in React (Monaco React Editor)
+using Piston API, Chakra UI, monaco editor
